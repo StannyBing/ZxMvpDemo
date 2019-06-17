@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">ZxMvpDemo</string>
+    <string name="app_version">1.0.0</string>
+    <string name="app_new_version">1.0.1</string>
+    <string name="arcgiskey">5SKIXc21JlankElJ</string>
+    <string name="login">登录</string>
+    <string name="back">找回密码</string>
+    <string name="next">下一步</string>
+    <string name="ok">确认</string>
+    <string name="register">注册</string>
+</resources>
